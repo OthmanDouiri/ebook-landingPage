@@ -196,27 +196,3 @@ fbq('track', 'InitiateCheckout')
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](../../issues) section
-2. Create a new issue with detailed information
-3. Provide steps to reproduce any bugs
-
-## 🌟 Features Roadmap
-
-- [ ] A/B testing components
-- [ ] Advanced email automation
-- [ ] Multi-language support
-- [ ] Dark mode toggle
-- [ ] Advanced analytics dashboard
-- [ ] Customer reviews system
-
----
-
-**Made with ❤️ for digital entrepreneurs and content creators**
