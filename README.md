@@ -1,4 +1,5 @@
 # 📚 eBook Pro - Digital Marketing Landing Page
+![image](https://github.com/user-attachments/assets/e6ed5b5e-0e0e-4edc-8cd8-fc58901557d6)
 
 A modern, responsive Vue.js landing page designed for selling digital marketing eBooks. This professional landing page includes all the essential components needed to convert visitors into customers.
 
