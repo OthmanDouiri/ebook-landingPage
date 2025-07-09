@@ -76,8 +76,8 @@ ebook/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
-   cd ebook
+   git clone https://github.com/OthmanDouiri/ebook-landingPage
+   cd ebook-landingPage
    ```
 
 2. **Install dependencies**
